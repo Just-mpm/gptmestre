@@ -1,6 +1,6 @@
-openai
-python-telegram-bot
-chromadb
-langchain
+
 streamlit
+langchain
+openai
 python-dotenv
+requests
